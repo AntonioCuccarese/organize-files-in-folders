@@ -23,7 +23,7 @@ Segui questi passaggi per installare l'Azione Rapida:
 
 ## Come Utilizzare
 
-Per organizzare i tuoi file, fai clic destro sulla cartella che li contiene, naviga verso **Azioni Rapide**, e scegli "Organize Files in Folder".
+Per organizzare i tuoi file, fai clic destro sulla cartella che li contiene, naviga verso **Azioni Rapide**, e scegli "Organize Files in Folders".
 
 [![temp-Imagezjnz-ZW.avif](https://i.postimg.cc/cCW0wZZP/temp-Imagezjnz-ZW.avif)](https://postimg.cc/WF5BcBd7)
 
