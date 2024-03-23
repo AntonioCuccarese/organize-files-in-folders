@@ -1,7 +1,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AntonioCuccarese/organize-files-in-folders/blob/main/README.md)
 [![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/AntonioCuccarese/organize-files-in-folders/blob/main/README.it.md)
 
-# Organize Files in Subfolders
+# Organizza file in sottocartelle
 
 Questa Azione Rapida permette di organizzare automaticamente i file in sottocartelle in base al nome del singolo file. 
 
@@ -17,7 +17,7 @@ Un file denominato `FOLDER1#file.wav` verrà spostato in una nuova o esistente c
 
 Segui questi passaggi per installare l'Azione Rapida:
 
-1. Scarica ed estrai "Organize Files in Folder.zip"
+1. Scarica ed estrai "Organize Files in Folders.zip"
 2. Fai doppio clic sul workflow "Organize Files in Folders" e installalo.
 3. Ecco fatto!
 
