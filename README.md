@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AntonioCuccarese/organize-files-in-folders/blob/main/README.md)
+[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/AntonioCuccarese/organize-files-in-folders/blob/main/README.it.md)
+
 # Organize Files in Subfolders
 
 This is a Quick Action that automatically arranges files into designated subfolders based on their filenames. This is particularly useful for quickly organizing files without the need for manual sorting.
