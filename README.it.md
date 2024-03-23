@@ -30,3 +30,11 @@ Per organizzare i tuoi file, fai clic destro sulla cartella che li contiene, nav
 Questo è il risultato finale:
 
 [![temp-Image-Yf-Pm-EL.avif](https://i.postimg.cc/TPZR2gsd/temp-Image-Yf-Pm-EL.avif)](https://postimg.cc/B8BWMLsk)
+
+## Disinstallazione
+
+Per rimuovere una o più Azioni Rapide, procedere come segue:
+
+1. Avviare l'applicazione Terminale.
+2. Digitare ```open ~/Library/Services``` e premere Invio.
+3. Individuare e rimuovere il file "Organize Files in Folders" (o qualsiasi altra Azione Rapida che si desidera rimuovere).
