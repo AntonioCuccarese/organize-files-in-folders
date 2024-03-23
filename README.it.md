@@ -15,10 +15,10 @@ Un file denominato `FOLDER1#file.wav` verrà spostato in una nuova o esistente c
 
 ## Guida all'Installazione
 
-Segui questi passaggi per installare l'Azione Rapida:
+Seguire questi passaggi per installare l'Azione Rapida:
 
-1. Scarica ed estrai "Organize Files in Folders.zip"
-2. Fai doppio clic sul workflow "Organize Files in Folders" e installalo.
+1. Scaricare ed estrarre "Organize Files in Folders.zip"
+2. Fare doppio clic sul workflow "Organize Files in Folders" e installarlo.
 3. Ecco fatto!
 
 ## Come Utilizzare
