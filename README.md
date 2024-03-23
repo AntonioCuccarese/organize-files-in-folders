@@ -30,3 +30,11 @@ To organize your files, right-click on the parent folder, navigate to **Quick Ac
 This is the final result:
 
 [![temp-Image-Yf-Pm-EL.avif](https://i.postimg.cc/TPZR2gsd/temp-Image-Yf-Pm-EL.avif)](https://postimg.cc/B8BWMLsk)
+
+## Uninstall
+
+To remove one or more Quick Actions, please proceed as follows:
+
+1. Launch the Terminal application.
+2. Type ```open ~/Library/Services``` and hit Enter.
+3. Locate and remove the "Organize Files in Folders" file (or whichever Quick Action you wish to remove).
