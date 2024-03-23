@@ -16,7 +16,7 @@ Follow these steps to install the Quick Action:
 
 1. Download and unzip "Organize Files in Folder.zip"
 2. Double-click on the “Organize Files in Folders” workflow and install it.
-3. Enjoy organizing your files more efficiently!
+3. Enjoy!
 
 ## How to Use
 
