@@ -4,7 +4,7 @@ This is a Quick Action that automatically arranges files into designated subfold
 
 ## How It Works
 
-Files named following the pattern "FOLDER#filename.ext" will be automatically relocated to a new or existing folder named "FOLDER" and will be renamed to simply "filename.ext". This process is applicable to subfolders as well.
+Files named following the pattern "FOLDER#filename" will be automatically relocated to a new or existing folder named "FOLDER" and will be renamed to simply "filename". This process is applicable to subfolders as well.
 
 ### Example
 
