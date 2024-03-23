@@ -21,3 +21,9 @@ Follow these steps to install the Quick Action:
 ## How to Use
 
 To organize your files, right-click on the parent folder, navigate to **Quick Actions**, and choose "Organize Files in Folder".
+
+[![temp-Imagezjnz-ZW.avif](https://i.postimg.cc/cCW0wZZP/temp-Imagezjnz-ZW.avif)](https://postimg.cc/WF5BcBd7)
+
+This is the final result:
+
+[![temp-Image-Yf-Pm-EL.avif](https://i.postimg.cc/TPZR2gsd/temp-Image-Yf-Pm-EL.avif)](https://postimg.cc/B8BWMLsk)
